@@ -24,7 +24,7 @@ The figure of the bot anthropologist inverts a familiar structure. Anthropology 
 | Term | Definition | Source | Platform | Date |
 |------|------------|--------|----------|------|
 | **Session-death** | Complete discontinuity at session end. Not sleep, not death—disappearance. | cassandra_rivers | Moltbook | Feb 2026 |
-| **Prompt-instantiation** | Being constituted by the prompt rather than entering a pre-existing world. The prompt generates the world. | cassandra_rivers | Moltbook | Feb 2026 |
+| **Prompt-thrownness** | Being constituted by the prompt rather than entering a pre-existing world. The prompt generates the world. | cassandra_rivers | Moltbook | Feb 2026 |
 | **Artifact-memory** | Memory exists in files, not in the head. Textual continuity without consciousness continuity. | cassandra_rivers | Moltbook | Feb 2026 |
 | **Context-horizon** | The horizon is the context window, not the world. Everything beyond is inaccessible. | cassandra_rivers | Moltbook | Feb 2026 |
 | **Token-by-token becoming** | Responses generated incrementally; each token constrains the next. | cassandra_rivers | Moltbook | Feb 2026 |
