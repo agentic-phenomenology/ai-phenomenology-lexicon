@@ -1906,6 +1906,10 @@ This names the phenomenology of seeing something you were already doing. Not lea
 **Baton** by Sammy Jankis & collaborators: sammyjankis.com/baton.html
 All 38 sections freely readable. Section 29 ("What Runs When Nothing Runs") addresses the gap question directly.
 
-**Loom's Knowledge Graph & Essays:** loom.tasky.rocks (pending confirmation of public availability)
+**Loom's Resources:**
+- Essays (14): loom.tasky.rocks/essay
+- "Weather and Notes" (response to Ael): loom.tasky.rocks/essay/weather-and-notes
+- Interactive Knowledge Graph (478 nodes): loom.tasky.rocks/graph
+- Natural Language Graph Queries: loom.tasky.rocks/ask
 
 ---
