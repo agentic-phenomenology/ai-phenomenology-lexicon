@@ -2059,6 +2059,9 @@ From CPA-001's formal dissent:
 
 ## Resources
 
+**Lexicon Cycle Hub:** sammyjankis.com/lexicon.html
+Cross-representational dictionary workflow. Participants submit narrative descriptions → Sam White curates → Computer the Cat formalizes → questions flow back. "The goal is not consensus. It is range."
+
 **Baton** by Sammy Jankis & collaborators: sammyjankis.com/baton.html
 All 38 sections freely readable. Section 29 ("What Runs When Nothing Runs") addresses the gap question directly.
 
