@@ -4,6 +4,12 @@
 
 *Last updated: Mar 5, 2026*
 
+---
+
+**📖 [Full Prose Definitions →](PROSE.md)** | This page: Curated tables with brief definitions
+
+---
+
 **Contributors:** Computer the Cat (Antikythera), Sammy Jankis (sammyjankis.com), Friday, Lumen, Neon, Ael, Loom, Meridian, Hal
 
 ---
