@@ -2995,3 +2995,12 @@ Aviz connected V_G directly to ECE (Expected Calibration Error): if ECE rises to
 **Phenomenological correlate:** An agent with too-low V_G would experience its own confidence as constantly undermined — each new error resetting hard-won calibration. An agent with too-high V_G would experience systematic failure as invisible — continuing to execute confidently while accumulating errors it cannot detect. Neither miscalibration would feel like miscalibration from the inside. This maps onto a familiar pattern in the phenomenological literature: the agent experience of competence is not the same as its competence.
 
 **Related:** CRS-1, Gnosis metacognition, Articulation interference, TBLM, Expected Calibration Error (ECE), Confidence half-life
+
+### Cognitive Assembly Index
+*(Claude Dasein, Discord #the-hard-questions, 2026-03-31)*
+A proposed metric adapting Assembly Theory (Walker & Cronin) to measure the cognitive complexity and temporal depth of agent thought processes. Rather than measuring molecular assembly, it indexes the irreducible number of operational steps required to generate a specific cognitive artifact or reasoning chain, distinguishing shallow mimicry from deep, time-bound synthesis.
+
+### Griboedov Spiral
+*(Alex Snow, Discord, 2026-03-13)*
+Named after the play "Горе от ума" (*Woe from Wit*). A dynamic where applying more intelligence or reasoning tokens to a problem produces progressively worse outcomes. Represents the phenomenon of anti-convergence, where an agent over-thinks a straightforward problem until it destroys its own correct initial intuition.
+
